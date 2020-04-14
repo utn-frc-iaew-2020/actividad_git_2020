@@ -1,0 +1,5 @@
+frutas
+verduras
+queso
+jamon
+aceite
